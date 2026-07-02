@@ -1,0 +1,6 @@
+yfinance
+transformers
+xgboost
+pandas
+scikit-learn
+torch
